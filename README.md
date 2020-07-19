@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This playbook installs powerline, vim-powerline, and tmux-powerline to computers running Fedora Linux (32). It also configures default settings.
+This playbook installs powerline, vim-powerline, and tmux-powerline on computers running Fedora Linux (32). It also configures default settings.
 
 ## How to use
 
@@ -18,7 +18,7 @@ $ ansible-playbook addpowerline.yml -b -K
 
 ### A really quick introduction into how to get started with ansible: 
 
-NetworkChuck. (2020, May 7). you need to learn Ansible RIGHT NOW!! (Linux Automation). Retrieved July 19, 2020, from https://www.youtube.com/watch?v=5hycyr-8EKs&t=514s
+NetworkChuck. (2020, May 7). you need to learn Ansible RIGHT NOW!! (Linux Automation). Retrieved July 19, 2020, from https://www.youtube.com/watch?v=5hycyr-8EKs
 
 ### Where the settings come from:
 
